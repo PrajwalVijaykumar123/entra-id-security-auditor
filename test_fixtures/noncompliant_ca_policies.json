@@ -1,0 +1,8 @@
+[
+  {
+    "displayName": "Require MFA for all users",
+    "state": "disabled",
+    "conditions": {"clientAppTypes": ["browser", "mobileAppsAndDesktopClients"], "users": {"includeUsers": ["All"]}},
+    "grantControls": {"builtInControls": ["mfa"]}
+  }
+]

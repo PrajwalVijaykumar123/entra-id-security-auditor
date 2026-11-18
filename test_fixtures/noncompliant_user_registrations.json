@@ -1,0 +1,4 @@
+[
+  {"userPrincipalName": "alice@contoso.com", "userType": "Member", "isAdmin": true, "isMfaRegistered": false, "lastUpdatedDateTime": "2026-10-01T00:00:00Z"},
+  {"userPrincipalName": "guest.contractor_external#EXT#@contoso.com", "userType": "Guest", "isAdmin": true, "isMfaRegistered": true, "lastUpdatedDateTime": "2026-09-01T00:00:00Z"}
+]

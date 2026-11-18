@@ -1,0 +1,4 @@
+[
+  {"roleDisplayName": "Global Administrator", "principalUserPrincipalName": "alice@contoso.com", "assignmentType": "Active", "lastSignInDateTime": "2026-06-01T00:00:00Z"},
+  {"roleDisplayName": "Privileged Role Administrator", "principalUserPrincipalName": "guest.contractor_external#EXT#@contoso.com", "assignmentType": "Eligible", "lastSignInDateTime": "2026-11-15T00:00:00Z"}
+]
